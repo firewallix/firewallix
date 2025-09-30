@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming and Piano
 - 🌱 I’m doing most of my programs in VB6 language
 - 💞️ I’m looking forward to learn new database programming 
-- 📫 How to reach me fhik2k@gmail.com
+- 📫 How to reach me? I'm here
 
 <!---
 firewallix/firewallix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
