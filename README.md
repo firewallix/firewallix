@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @firewallix, father of two
-- 👀 I’m interested in Programming and Piano
+- 👀 I’m interested in Programming
 - 🌱 I’m doing most of my programs in VB6 language
-- 💞️ I’m looking forward to learn new database programming 
+- 💞️ What I love? Good food 
 - 📫 How to reach me? I'm here
 
 <!---
