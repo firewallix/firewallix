@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @firewallix, father of two
-- 👀 I’m interested in Programming
+- 👀 I’m a Programmer
 - 🌱 I’m doing most of my programs in VB6 language
 - 💞️ What I love? Good food 
-- 📫 How to reach me? I'm here
+- 📫 How to reach me? fhik2k@gmail.com
 
 > 💡 **Design Ethos**  
 > Let the burden of complexity fall on me, not on the user.  
